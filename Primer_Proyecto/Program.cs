@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hola Mundo");
-Console.WriteLine("Binvenidos al proyecto");
+﻿String Nombre;
+Console.WriteLine("Bienvenidos a nuestro sistema");
+Console.WriteLine("Ingrese su nombre para continuar");
+Nombre = Console.ReadLine();
