@@ -1,5 +1,5 @@
 ﻿using System;
-public class progra;
+public class program
 {
     static void Main(string[] args)
     {
@@ -15,11 +15,6 @@ public class progra;
         if (EdadMeses > 0) ;
         {
             Console.WriteLine("Usted es Mayor de Edad");
-        }
-
-else
-        {
-            Console.WriteLine("Usted es Menor de Edad");
         }
     }
     
