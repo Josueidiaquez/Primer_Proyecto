@@ -16,8 +16,5 @@ public class program
         {
             Console.WriteLine("Usted es Mayor de Edad");
         }
-    }
-    
+    } 
 }
-
-
